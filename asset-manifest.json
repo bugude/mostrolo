@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mostrolo/static/css/main.9c006e8e.chunk.css",
+    "main.js": "/mostrolo/static/js/main.b79ecf35.chunk.js",
+    "main.js.map": "/mostrolo/static/js/main.b79ecf35.chunk.js.map",
+    "runtime~main.js": "/mostrolo/static/js/runtime~main.42e56e9e.js",
+    "runtime~main.js.map": "/mostrolo/static/js/runtime~main.42e56e9e.js.map",
+    "static/js/2.27899654.chunk.js": "/mostrolo/static/js/2.27899654.chunk.js",
+    "static/js/2.27899654.chunk.js.map": "/mostrolo/static/js/2.27899654.chunk.js.map",
+    "index.html": "/mostrolo/index.html",
+    "precache-manifest.91a7f56d1713d83df7df0743475c4fa1.js": "/mostrolo/precache-manifest.91a7f56d1713d83df7df0743475c4fa1.js",
+    "service-worker.js": "/mostrolo/service-worker.js",
+    "static/css/main.9c006e8e.chunk.css.map": "/mostrolo/static/css/main.9c006e8e.chunk.css.map"
+  }
+}
